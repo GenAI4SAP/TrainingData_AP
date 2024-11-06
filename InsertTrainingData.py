@@ -23,7 +23,7 @@ def proccess(archive):
     if 'sql' in df.columns and 'question' in df.columns:
         for index, row in df.iterrows():
             question = row['question']
-            sql = change_address(row['sql'])
+            sql = row['sql']
             agent_id = row['agent_id'] 
 
             data = {
