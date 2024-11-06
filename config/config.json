@@ -1,0 +1,10 @@
+{
+  "project_id_tgt": "ce-sap-latam-test-deploy",
+  "project_id_src": "",
+  "dataset_reporting_tgt": "test_reporting",
+  "dataset_cdc_processed": "",
+  "k9_datasets_processing": "",
+  "k9_datasets_reporting": "",
+  "training_url":  "https://genai4enterprise-187186645513.us-central1.run.app/api/v0/train",
+  "admin_api_key": "genai4enterprise"  
+}
